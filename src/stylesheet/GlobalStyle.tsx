@@ -19,6 +19,7 @@ body{
   background-size:cover;
   background-position:center ;
   color:black;
+  height:100%;
 font-family: 'ShadowsIntoLight';
 }
 
